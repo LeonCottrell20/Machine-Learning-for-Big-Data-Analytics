@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rU3LZGgFXj2t4e9ngwITHgvmU3ittuQ9
 """
 
-!pip install pyod
+
 import os
 import numpy as np
 import pandas as pd
