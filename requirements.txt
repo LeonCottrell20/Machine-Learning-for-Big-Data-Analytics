@@ -1,0 +1,12 @@
+pyod
+numpy
+pandas
+sklearn
+matplotlib
+seaborn
+tensorflow
+imblearn
+operator
+keras
+statsmodels
+scipy
